@@ -1,5 +1,5 @@
 .container {
-    max-width: 350px;
+    max-width: 270px;
     max-height: max-content;
     width: 100%;
     display: flex;
@@ -8,26 +8,26 @@
     background-color: white;
     border-radius: 20px;
     align-items: center;
-    padding: 0 20px;
+    /* padding: 0 20px; */
 }
 .img {
     border-radius: 20px;
     margin-top: 20px;
-    width: 100%;
+    width: 85%;
 }
 
 .title {
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 700;
 
 }   
 .subtitle {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 400;
     color: hsl(218, 44%, 22%);
 }
 .subcontainer {
-    padding: 0 20px;
+    /* padding: 0 20px; */
 }
 .attribution {
     font-size: 11px; 

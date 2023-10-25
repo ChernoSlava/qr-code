@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { Code } from './QrCode.tsx';
+import { Code } from './QrCode';
 
 export function App() {
   return (
